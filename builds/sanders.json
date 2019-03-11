@@ -1,0 +1,27 @@
+{
+  "pie": [
+    {
+      "addons": [
+        {
+            "title": "Magisk",
+            "summary": "Installer zip",
+            "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip"
+        },
+        {
+            "title": "Magisk",
+            "summary": "Uninstaller zip",
+            "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip"
+        }
+      ],
+      "developer": "Syed Sajid",
+      "developer_url": "https://forum.xda-developers.com/member.php?u=6116475",
+      "forum_url": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-lluviaos-t3796985",
+      "filename": "LLuviaOS-v3.0-Crystal-sanders-NatureMade-20190311.zip",
+      "build_date": 20190311,
+      "filesize": 88369143,
+      "md5": "af3d09f2fc92bb970c4a7c98d7d553c3"
+      "url": "https://downloads.sourceforge.net/projects/lluviaos-3-0/files/sanders/LLuviaOS-v3.0-Crystal-sanders-NatureMade-20190311.zip",
+      "version": "v3.0"
+    }
+  ]
+}
